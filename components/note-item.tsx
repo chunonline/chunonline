@@ -101,7 +101,7 @@ export function NoteItem({
       className={`h-[70px] w-full ${
         (!isMobile && isSearching && isHighlighted) ||
         (!isSearching && item.slug === selectedNoteSlug)
-          ? "bg-[#FFE390] dark:bg-[#9D7D28] dark:text-white rounded-md"
+          ? "bg-gray-200 dark:bg-gray-800 dark:text-white rounded-md"
           : ""
       } ${
         !isMobile && showDivider &&
