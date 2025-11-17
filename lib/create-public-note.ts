@@ -5,7 +5,7 @@ export interface CreatePublicNoteParams {
   content: string;
   slug: string;
   emoji?: string;
-  category?: string;
+  category?: string | null;
 }
 
 export async function createPublicNote({
