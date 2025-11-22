@@ -1,7 +1,6 @@
 import { cache } from "react";
 import Note from "@/components/note";
 import { createClient as createServerClient } from "@/utils/supabase/server";
-import { createClient as createBrowserClient } from "@/utils/supabase/client";
 import { redirect } from "next/navigation";
 import { Metadata } from "next";
 import { Note as NoteType } from "@/lib/types";
@@ -20,7 +19,7 @@ const getNote = cache(async (slug: string) => {
 
 // Dynamically determine if this is a user note
 export async function generateStaticParams() {
-  const supabase = createBrowserClient();
+  const supabase = createServerClient();
   const { data: posts } = await supabase
     .from("notes")
     .select("slug")
