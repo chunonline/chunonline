@@ -9,3 +9,4 @@ Small profile notes and checkpoints.
 - 2026-01-02 09:13 profile checkpoint 3825
 - 2026-01-02 09:56 signal review 8216
 - 2026-01-02 10:49 review journal 4797
+- 2026-01-02 11:26 review cleanup 8161
