@@ -23,3 +23,4 @@ Small profile notes and checkpoints.
 - 2026-01-06 09:38 trace sketch 8680
 - 2026-01-06 09:54 sketch profile 2716
 - 2026-01-06 12:43 profile profile 3814
+- 2026-01-06 13:52 checkpoint spark 2731
