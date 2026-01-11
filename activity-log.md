@@ -45,3 +45,4 @@ Small profile notes and checkpoints.
 - 2026-01-10 21:02 checkpoint plan 3363
 - 2026-01-10 21:45 spark profile 2605
 - 2026-01-10 21:46 index checkpoint 5055
+- 2026-01-11 14:56 refine cleanup 7801
