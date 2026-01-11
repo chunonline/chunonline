@@ -42,3 +42,4 @@ Small profile notes and checkpoints.
 - 2026-01-10 13:53 journal checkpoint 6277
 - 2026-01-10 15:37 journal signal 8141
 - 2026-01-10 16:23 signal refine 5810
+- 2026-01-10 21:02 checkpoint plan 3363
