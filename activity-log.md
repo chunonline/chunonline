@@ -44,3 +44,4 @@ Small profile notes and checkpoints.
 - 2026-01-10 16:23 signal refine 5810
 - 2026-01-10 21:02 checkpoint plan 3363
 - 2026-01-10 21:45 spark profile 2605
+- 2026-01-10 21:46 index checkpoint 5055
