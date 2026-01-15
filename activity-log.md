@@ -60,3 +60,4 @@ Small profile notes and checkpoints.
 - 2026-01-14 13:36 index sketch 1529
 - 2026-01-14 14:40 sync notes 8314
 - 2026-01-14 16:03 spark sketch 6092
+- 2026-01-14 16:16 trace cleanup 5156
