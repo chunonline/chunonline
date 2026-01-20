@@ -69,3 +69,4 @@ Small profile notes and checkpoints.
 - 2026-01-19 13:31 refine draft 3288
 - 2026-01-20 07:27 trace profile 6132
 - 2026-01-20 08:53 refine journal 3733
+- 2026-01-20 12:00 index sync 4058
