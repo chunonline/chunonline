@@ -72,3 +72,4 @@ Small profile notes and checkpoints.
 - 2026-01-20 12:00 index sync 4058
 - 2026-01-20 12:41 plan refine 3396
 - 2026-01-20 14:21 journal plan 1555
+- 2026-01-20 14:30 review sync 6947
