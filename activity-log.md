@@ -83,3 +83,4 @@ Small profile notes and checkpoints.
 - 2026-01-20 22:09 signal review 6576
 - 2026-01-21 07:44 spark checkpoint 7165
 - 2026-01-21 13:02 checkpoint trace 1245
+- 2026-01-22 08:48 spark signal 7325
