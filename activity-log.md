@@ -89,3 +89,4 @@ Small profile notes and checkpoints.
 - 2026-01-22 11:17 spark cleanup 9736
 - 2026-01-22 11:21 profile sketch 2822
 - 2026-01-22 17:15 review sketch 6329
+- 2026-01-22 19:44 trace draft 5443
