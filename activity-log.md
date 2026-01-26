@@ -97,3 +97,4 @@ Small profile notes and checkpoints.
 - 2026-01-23 22:03 journal review 4826
 - 2026-01-25 12:35 trace profile 9925
 - 2026-01-25 17:14 refine refine 2455
+- 2026-01-25 17:35 spark checkpoint 9348
