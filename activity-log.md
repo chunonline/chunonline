@@ -112,3 +112,4 @@ Small profile notes and checkpoints.
 - 2026-01-28 11:03 signal signal 9875
 - 2026-01-28 13:24 entry spark 9528
 - 2026-01-28 13:42 spark refine 2155
+- 2026-01-28 14:57 journal checkpoint 3766
