@@ -120,3 +120,4 @@ Small profile notes and checkpoints.
 - 2026-01-29 12:00 notes plan 3553
 - 2026-01-29 12:10 checkpoint draft 4774
 - 2026-01-29 12:37 sketch signal 2917
+- 2026-01-29 12:53 profile checkpoint 5968
