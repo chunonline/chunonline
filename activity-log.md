@@ -152,3 +152,4 @@ Small profile notes and checkpoints.
 - 2026-02-07 21:48 refine signal 8150
 - 2026-02-07 22:59 refine refine 6328
 - 2026-02-08 10:27 spark review 3646
+- 2026-02-08 15:18 cleanup profile 2496
