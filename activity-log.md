@@ -154,3 +154,4 @@ Small profile notes and checkpoints.
 - 2026-02-08 10:27 spark review 3646
 - 2026-02-08 15:18 cleanup profile 2496
 - 2026-02-08 16:03 refine trace 1524
+- 2026-02-08 18:07 trace spark 6975
