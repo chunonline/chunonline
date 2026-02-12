@@ -159,3 +159,4 @@ Small profile notes and checkpoints.
 - 2026-02-11 11:19 draft trace 7830
 - 2026-02-11 13:13 journal draft 1240
 - 2026-02-11 20:37 profile checkpoint 6426
+- 2026-02-11 22:42 index cleanup 4555
