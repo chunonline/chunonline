@@ -166,3 +166,4 @@ Small profile notes and checkpoints.
 - 2026-02-14 08:39 sketch trace 4546
 - 2026-02-14 17:11 entry spark 6596
 - 2026-02-14 17:57 plan trace 9078
+- 2026-02-14 18:36 index profile 9990
