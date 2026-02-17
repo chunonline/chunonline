@@ -170,3 +170,4 @@ Small profile notes and checkpoints.
 - 2026-02-14 20:55 notes plan 9771
 - 2026-02-14 21:13 notes entry 9423
 - 2026-02-15 16:57 profile plan 1844
+- 2026-02-17 07:36 signal cleanup 7981
