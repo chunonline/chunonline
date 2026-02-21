@@ -188,3 +188,4 @@ Small profile notes and checkpoints.
 - 2026-02-21 07:21 refine plan 9977
 - 2026-02-21 10:12 journal draft 2450
 - 2026-02-21 10:50 refine review 6640
+- 2026-02-21 13:54 draft index 3480
