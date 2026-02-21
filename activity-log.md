@@ -185,3 +185,4 @@ Small profile notes and checkpoints.
 - 2026-02-18 22:33 signal index 9484
 - 2026-02-18 22:52 trace sketch 1124
 - 2026-02-19 15:27 review index 9026
+- 2026-02-21 07:21 refine plan 9977
