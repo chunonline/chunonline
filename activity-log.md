@@ -193,3 +193,4 @@ Small profile notes and checkpoints.
 - 2026-02-21 15:46 sync journal 8513
 - 2026-02-21 16:57 signal spark 3012
 - 2026-02-21 18:10 plan trace 4085
+- 2026-02-21 18:36 index sync 5213
