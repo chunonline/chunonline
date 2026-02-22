@@ -195,3 +195,4 @@ Small profile notes and checkpoints.
 - 2026-02-21 18:10 plan trace 4085
 - 2026-02-21 18:36 index sync 5213
 - 2026-02-21 20:48 draft entry 4149
+- 2026-02-21 21:29 entry signal 3124
