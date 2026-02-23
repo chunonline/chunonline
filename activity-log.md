@@ -201,3 +201,4 @@ Small profile notes and checkpoints.
 - 2026-02-23 10:12 entry cleanup 6761
 - 2026-02-23 11:05 spark refine 9903
 - 2026-02-23 13:13 trace refine 1365
+- 2026-02-23 14:11 signal profile 2290
