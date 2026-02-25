@@ -212,3 +212,4 @@ Small profile notes and checkpoints.
 - 2026-02-23 20:58 plan index 2195
 - 2026-02-24 08:10 journal sync 9277
 - 2026-02-25 09:55 index checkpoint 1329
+- 2026-02-25 12:11 spark cleanup 3642
