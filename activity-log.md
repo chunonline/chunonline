@@ -225,3 +225,4 @@ Small profile notes and checkpoints.
 - 2026-02-27 13:12 checkpoint index 4620
 - 2026-02-27 13:20 spark profile 9737
 - 2026-02-27 14:10 cleanup index 2987
+- 2026-02-27 14:36 index plan 5150
