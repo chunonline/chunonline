@@ -217,3 +217,4 @@ Small profile notes and checkpoints.
 - 2026-02-25 16:17 spark refine 8794
 - 2026-02-25 17:16 profile spark 4254
 - 2026-02-25 21:21 plan notes 5354
+- 2026-02-26 17:50 checkpoint signal 8656
