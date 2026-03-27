@@ -293,3 +293,4 @@ Small profile notes and checkpoints.
 - 2026-03-25 13:29 notes cleanup 3043
 - 2026-03-25 21:50 entry notes 5913
 - 2026-03-27 08:59 entry index 5216
+- 2026-03-27 09:29 refine signal 4020
