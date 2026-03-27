@@ -300,3 +300,4 @@ Small profile notes and checkpoints.
 - 2026-03-27 14:41 profile signal 8789
 - 2026-03-27 15:29 journal profile 1400
 - 2026-03-27 15:36 journal notes 3415
+- 2026-03-27 16:34 journal cleanup 8099
