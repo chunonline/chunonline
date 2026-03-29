@@ -307,3 +307,4 @@ Small profile notes and checkpoints.
 - 2026-03-27 21:24 review notes 2311
 - 2026-03-27 21:25 plan refine 4367
 - 2026-03-28 08:09 index checkpoint 4109
+- 2026-03-28 21:59 draft cleanup 4313
