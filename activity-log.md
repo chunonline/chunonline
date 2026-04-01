@@ -309,3 +309,4 @@ Small profile notes and checkpoints.
 - 2026-03-28 08:09 index checkpoint 4109
 - 2026-03-28 21:59 draft cleanup 4313
 - 2026-03-30 10:56 signal draft 1925
+- 2026-04-01 11:58 plan index 6351
