@@ -311,3 +311,4 @@ Small profile notes and checkpoints.
 - 2026-03-30 10:56 signal draft 1925
 - 2026-04-01 11:58 plan index 6351
 - 2026-04-02 08:12 entry index 2336
+- 2026-04-02 08:30 spark trace 6341
