@@ -314,3 +314,4 @@ Small profile notes and checkpoints.
 - 2026-04-02 08:30 spark trace 6341
 - 2026-04-02 10:10 journal notes 5536
 - 2026-04-02 10:28 trace index 6988
+- 2026-04-02 10:58 notes cleanup 8164
