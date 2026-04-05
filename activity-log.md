@@ -332,3 +332,4 @@ Small profile notes and checkpoints.
 - 2026-04-04 13:46 notes index 5819
 - 2026-04-04 16:53 cleanup checkpoint 4233
 - 2026-04-04 21:00 plan review 4664
+- 2026-04-04 22:29 signal index 6754
