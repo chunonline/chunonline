@@ -340,3 +340,4 @@ Small profile notes and checkpoints.
 - 2026-04-07 14:29 review journal 7627
 - 2026-04-07 19:49 checkpoint draft 7729
 - 2026-04-08 10:21 trace cleanup 4753
+- 2026-04-08 10:31 checkpoint profile 9979
