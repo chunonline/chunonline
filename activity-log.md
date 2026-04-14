@@ -356,3 +356,4 @@ Small profile notes and checkpoints.
 - 2026-04-12 10:38 entry checkpoint 1776
 - 2026-04-12 18:53 sketch checkpoint 6557
 - 2026-04-13 17:57 review review 2276
+- 2026-04-14 12:51 cleanup profile 2235
