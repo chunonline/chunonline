@@ -359,3 +359,4 @@ Small profile notes and checkpoints.
 - 2026-04-14 12:51 cleanup profile 2235
 - 2026-04-14 22:42 sketch refine 6135
 - 2026-04-16 12:17 sketch checkpoint 7800
+- 2026-04-16 16:03 spark sketch 4261
