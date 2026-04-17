@@ -362,3 +362,4 @@ Small profile notes and checkpoints.
 - 2026-04-16 16:03 spark sketch 4261
 - 2026-04-17 07:26 notes spark 1321
 - 2026-04-17 09:01 signal review 5729
+- 2026-04-17 11:04 signal cleanup 9921
