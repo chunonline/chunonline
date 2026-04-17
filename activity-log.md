@@ -367,3 +367,4 @@ Small profile notes and checkpoints.
 - 2026-04-17 12:12 index cleanup 9024
 - 2026-04-17 12:53 review signal 7429
 - 2026-04-17 14:23 sync review 4312
+- 2026-04-17 15:33 signal draft 5940
