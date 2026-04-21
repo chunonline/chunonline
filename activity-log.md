@@ -377,3 +377,4 @@ Small profile notes and checkpoints.
 - 2026-04-17 21:16 journal cleanup 1476
 - 2026-04-17 22:12 trace draft 7745
 - 2026-04-18 18:29 spark checkpoint 4367
+- 2026-04-21 13:52 sync entry 4147
