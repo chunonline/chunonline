@@ -384,3 +384,4 @@ Small profile notes and checkpoints.
 - 2026-04-24 09:29 spark spark 3439
 - 2026-04-24 10:16 notes cleanup 9530
 - 2026-04-24 11:37 sync entry 3741
+- 2026-04-24 13:20 cleanup signal 2801
