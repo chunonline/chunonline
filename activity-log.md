@@ -380,3 +380,4 @@ Small profile notes and checkpoints.
 - 2026-04-21 13:52 sync entry 4147
 - 2026-04-22 14:20 profile plan 8156
 - 2026-04-23 13:43 notes sync 8043
+- 2026-04-23 22:48 sync cleanup 4120
