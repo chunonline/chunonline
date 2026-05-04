@@ -427,3 +427,4 @@ Small profile notes and checkpoints.
 - 2026-05-03 19:17 sync journal 2408
 - 2026-05-04 09:43 index sketch 8024
 - 2026-05-04 11:31 checkpoint notes 9716
+- 2026-05-04 12:09 trace signal 8170
