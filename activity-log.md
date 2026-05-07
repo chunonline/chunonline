@@ -434,3 +434,4 @@ Small profile notes and checkpoints.
 - 2026-05-06 17:07 review trace 6946
 - 2026-05-06 20:27 review notes 9136
 - 2026-05-06 21:44 profile index 3350
+- 2026-05-06 22:58 checkpoint journal 6766
