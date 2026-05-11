@@ -441,3 +441,4 @@ Small profile notes and checkpoints.
 - 2026-05-09 17:30 checkpoint draft 6783
 - 2026-05-10 07:34 profile journal 5943
 - 2026-05-10 15:48 cleanup checkpoint 8359
+- 2026-05-10 18:25 plan signal 6106
