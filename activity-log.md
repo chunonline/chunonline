@@ -443,3 +443,4 @@ Small profile notes and checkpoints.
 - 2026-05-10 15:48 cleanup checkpoint 8359
 - 2026-05-10 18:25 plan signal 6106
 - 2026-05-10 20:51 spark plan 9702
+- 2026-05-10 21:14 draft trace 4031
